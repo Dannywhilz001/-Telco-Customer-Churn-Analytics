@@ -108,9 +108,9 @@ This project implements **descriptive, diagnostic, and predictive analytics** to
 ---
 
 ## 🖼️ Dashboard Preview
-```md
+
 [Executive Summary](https://ibb.co/6R3bt2Cd)
-[Deep Dive Analysis]((https://ibb.co/N6fQpT3f)
+[Deep Dive Analysis](https://ibb.co/N6fQpT3f)
 [Predictive Insights](https://ibb.co/Kph1sjRY)
 ````
 
